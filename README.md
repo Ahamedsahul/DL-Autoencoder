@@ -32,9 +32,9 @@ Visualization and Analysis
 
 ## PROGRAM
 
-### Name: AHALYA S
+### Name: Ahamed Sahul Hameed M
 
-### Register Number: 212223230006
+### Register Number: 212224040016
 
 ```python
 import torch
